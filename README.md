@@ -17,7 +17,11 @@ source env/bin/activate # Linux
 
 ```
 pip install requests 
-pip install dotenv
+pip install python-dotenv
+```
+or 
+```
+pip install -r requirements.txt
 ```
 
 ### Create .env file
