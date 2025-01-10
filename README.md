@@ -1,3 +1,8 @@
+# Intro
+This script allows to export your github issues in a csv file.
+Optionally, you might download attachments. But this requires a little hack (see README.md).
+Initially, we only export basic columns. You might modify the code in github_exporter.py.
+
 # Installation
 
 ## Setup venv
